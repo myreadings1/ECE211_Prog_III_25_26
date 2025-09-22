@@ -1,5 +1,5 @@
-# ECE211_Prog_III_25_26
-This webpage is dedicated for the second year students of 2025-2026 Class, with the University of Kufa.
+# ECE211 Computer Programming III 2025-2026
+This webpage is dedicated for the second year students of ECE211 Comp Prog III 2025-2026 Class, with the University of Kufa.
 
 
 ### References
