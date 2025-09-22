@@ -8,5 +8,5 @@ The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King. [Downl
 Solutions for the textbook exercises [Download](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file)
 
 
-### Install C Compiler on Windows
+### Installing Eclipse and C Compiler on Windows computer
 Video [Watch ==>] (https://www.youtube.com/watch?v=jfuJ82ODY2U)
