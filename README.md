@@ -9,4 +9,4 @@ Solutions for the textbook exercises [Download](https://github.com/mhamdyx/C-pro
 
 
 ### Install C Compiler on Windows
-Video [Watch] (https://www.youtube.com/watch?v=jfuJ82ODY2U)
+Video [Watch](https://www.youtube.com/watch?v=jfuJ82ODY2U)
