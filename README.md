@@ -9,7 +9,7 @@ Solutions for the textbook exercises [Download](https://github.com/mhamdyx/C-pro
 
 
 ### Compile and Run C Programs on Windows Machine
-- Option 1: CLion [Website]==> (https://www.jetbrains.com/clion/)
+- Option 1: Installing CLion with GCC Compiler [Website]==> (https://www.jetbrains.com/clion/)
 - Option 2: Installing GCC Eclipse and C Compiler on Windows computer. 
   Video [Watch]==> (https://www.youtube.com/watch?v=jfuJ82ODY2U)
 
