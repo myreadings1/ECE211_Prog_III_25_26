@@ -8,9 +8,10 @@ The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King. [Downl
 Solutions for the textbook exercises [Download](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file)
 
 
-### Compile C Program on Windows Machine
+### Compile and Run C Programs on Windows Machine
 - Option 1: CLion [Website]==> (https://www.jetbrains.com/clion/)
 - Option 2: Installing GCC Eclipse and C Compiler on Windows computer. Video [Watch]==> (https://www.youtube.com/watch?v=jfuJ82ODY2U)
+
 
 
 ### Lectures
