@@ -15,14 +15,14 @@ Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mha
 
 
 ### Lectures
-- Lab Lecture (Sep 21st, 2025):
+- Lab Lecture1 (Sep 21st, 2025):
     - Introduction 
 - Lecture1: (Sep 23rd, 2025) [PDF Slides](https://drive.google.com/file/d/1BRWXi0CaIzo3KGjQmJ_cb5LMJ3mvMLnv/view?usp=drive_link)
     - Introduction to C Programming.  
     - Examples (prinf, scanf): [Website](https://www.programiz.com/c-programming/c-input-output).
     - Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
 
-- Lab Lecture (Sep 28th, 2025):
+- Lab Lecture2 (Sep 28th, 2025):
 - Lecture2 (Sep 30th, 2025):
    - Control Statements in C: if ... else, Loops (for, while, do ... while).  
 
