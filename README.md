@@ -3,14 +3,14 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 
 ### References
-The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King. [Download](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
+The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King ==> [Download PDF](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
 
-Solutions for the textbook exercises [Download](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file)
+Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file).
 
 
 ### Compile and Run C Programs on Windows Machine
 - Option 1: Installing CLion with GCC Compiler [Website]==> (https://www.jetbrains.com/clion/)
-- Option 2: Installing GCC Eclipse and C Compiler on Windows computer. [Watch on Youtube](https://www.youtube.com/watch?v=jfuJ82ODY2U)
+- Option 2: Installing GCC Eclipse and C Compiler on Windows computer ==> [Watch on Youtube](https://www.youtube.com/watch?v=jfuJ82ODY2U)
 
 
 
