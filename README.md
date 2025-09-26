@@ -26,3 +26,17 @@ Solutions for the textbook exercises [Download](https://github.com/mhamdyx/C-pro
 - Lab Lecture (Sep 28th, 2025):
 - Lecture2 (Sep 30th, 2025):
    - Control Statements in C: if ... else, Loops (for, while, do ... while).  
+
+
+### Homeworks
+- HW1
+
+### Exams
+- Quiz1
+- Quiz2
+- Midterm
+- Quiz3
+- Quiz4
+
+
+### Mini Project
