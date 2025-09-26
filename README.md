@@ -21,7 +21,7 @@ Solutions for the textbook exercises [Download](https://github.com/mhamdyx/C-pro
 - Lecture1: (Sep 23rd, 2025)
     - Introduction to C Programming  [Download](https://drive.google.com/file/d/1BRWXi0CaIzo3KGjQmJ_cb5LMJ3mvMLnv/view?usp=drive_link)
     - Examples (prinf, scanf): [Website](https://www.programiz.com/c-programming/c-input-output).
-    - Examples (Functions in C): (https://www.programiz.com/c-programming/c-functions).
+    - Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
 
 - Lab Lecture (Sep 28th, 2025):
 - Lecture2 (Sep 30th, 2025):
