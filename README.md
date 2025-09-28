@@ -23,6 +23,9 @@ Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mha
     - Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
 
 - Lab Lecture2 (Sep 28th, 2025):
+    - C Programming Lab Lecture1 [Download Link](https://drive.google.com/file/d/11hVEaPKcJZFCU0_mMPvJMOD6TLI14qks/view?usp=drive_link)
+    - Lab Report [Download Link](https://docs.google.com/document/d/1vSdY7UlpTWXabYi0OfX-bqcWz25DrU89/edit?usp=drive_link&ouid=115959378594459904907&rtpof=true&sd=true)
+    
 - Lecture2 (Sep 30th, 2025):
    - Control Statements in C: if ... else, Loops (for, while, do ... while).  
 
