@@ -42,3 +42,8 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 
 ### Mini Project
+
+
+### General Examples In C
+- Arrays in C [Website Link](https://www.programiz.com/c-programming/c-arrays)
+- Strings in C [Website Link](https://www.programiz.com/c-programming/c-strings)
