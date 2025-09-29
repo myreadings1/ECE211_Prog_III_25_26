@@ -3,9 +3,9 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 
 ### References
-The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King ==> [Download PDF](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
-
-Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file).
+- The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King ==> [Download PDF](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
+   - Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file).
+- MIT OpenCourseWare [Website Link](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/lecture-notes/)
 
 
 ### Compile and Run C Programs on Windows Machine
