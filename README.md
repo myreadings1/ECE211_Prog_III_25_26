@@ -42,6 +42,8 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 
 ### Mini Project
+- Project 1
+- Project 2
 
 
 ### General Examples In C
