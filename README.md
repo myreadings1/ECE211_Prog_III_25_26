@@ -18,7 +18,6 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 - Lab Lecture1 (Sep 21st, 2025):
     - Introduction 
 - Lecture1: Introduction to C Programming, (Date: Sep 23rd, 2025) [PDF Slides](https://drive.google.com/file/d/1BRWXi0CaIzo3KGjQmJ_cb5LMJ3mvMLnv/view?usp=drive_link)
-    - .  
     - Examples (prinf, scanf): [Website](https://www.programiz.com/c-programming/c-input-output).
     - Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
 
@@ -27,7 +26,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
     - Lab Report [Download Link](https://docs.google.com/document/d/1vSdY7UlpTWXabYi0OfX-bqcWz25DrU89/edit?usp=drive_link&ouid=115959378594459904907&rtpof=true&sd=true)
     
 - Lecture2: Control Statements in C (Date: Sep 30th, 2025) [PDF Slides]():
-  - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
+   - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
    - if ... else
    - swith
    - Loops (for, while, do ... while).  
@@ -35,6 +34,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 ### Homeworks
 - HW1
+- HW2
 
 ### Exams
 - Quiz1
