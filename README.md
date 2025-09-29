@@ -17,8 +17,8 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 ### Lectures
 - Lab Lecture1 (Sep 21st, 2025):
     - Introduction 
-- Lecture1: (Sep 23rd, 2025) [PDF Slides](https://drive.google.com/file/d/1BRWXi0CaIzo3KGjQmJ_cb5LMJ3mvMLnv/view?usp=drive_link)
-    - Introduction to C Programming.  
+- Lecture1: (Sep 23rd, 2025) Title: Introduction to C Programming [PDF Slides](https://drive.google.com/file/d/1BRWXi0CaIzo3KGjQmJ_cb5LMJ3mvMLnv/view?usp=drive_link)
+    - .  
     - Examples (prinf, scanf): [Website](https://www.programiz.com/c-programming/c-input-output).
     - Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
 
@@ -26,9 +26,8 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
     - C Programming Lab Lecture [PDF Slides](https://drive.google.com/file/d/11hVEaPKcJZFCU0_mMPvJMOD6TLI14qks/view?usp=drive_link)
     - Lab Report [Download Link](https://docs.google.com/document/d/1vSdY7UlpTWXabYi0OfX-bqcWz25DrU89/edit?usp=drive_link&ouid=115959378594459904907&rtpof=true&sd=true)
     
-- Lecture2 (Sep 30th, 2025):
-   - Control Statements in C:
-       - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
+- Lecture2 (Sep 30th, 2025): Title: Control Statements in C:
+  - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
    - if ... else
    - swith
    - Loops (for, while, do ... while).  
