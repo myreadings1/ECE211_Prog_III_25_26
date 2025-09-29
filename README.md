@@ -27,7 +27,11 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
     - Lab Report [Download Link](https://docs.google.com/document/d/1vSdY7UlpTWXabYi0OfX-bqcWz25DrU89/edit?usp=drive_link&ouid=115959378594459904907&rtpof=true&sd=true)
     
 - Lecture2 (Sep 30th, 2025):
-   - Control Statements in C: if ... else, Loops (for, while, do ... while).  
+   - Control Statements in C:
+       - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
+   - if ... else
+   - swith
+   - Loops (for, while, do ... while).  
 
 
 ### Homeworks
