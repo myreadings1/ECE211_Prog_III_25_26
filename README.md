@@ -53,3 +53,4 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 - Arrays in C [Website Link](https://www.programiz.com/c-programming/c-arrays)
 - Strings in C [Website Link](https://www.programiz.com/c-programming/c-strings)
 - break..continue in C [Website Link](https://www.programiz.com/c-programming/c-break-continue-statement)
+- Switch Statement in C [Website Link](https://www.programiz.com/c-programming/c-switch-case-statement)
