@@ -1,7 +1,7 @@
 # ECE211 Computer Programming III 2025-2026
 This webpage is dedicated for the second year students of ECE211 Comp Prog III 2025-2026 Class, with the University of Kufa.
 
-### Instructors
+### Class Instructors
 - Wahhab R. Mousa (Email: wahhab.albazrqa@uokufa.edu.iq)
 - Ameer Alshmmaa (Email: ameer.alshammaa@uokufa.edu.iq)
 
