@@ -31,16 +31,15 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
    - swith
    - Loops (for, while, do ... while)
 
-- Lab1  (Sep 21st, 2025):
-    - Introduction
-
+- Lab3 (Date: Oct 5th, 2025):
+    - 
+- Lecture3: (Date: Oct 7th, 2025):
+    - 
 - Lab3 (Date: Oct 5th, 2025):
     - 
     - 
 
-- Lecture3: (Date: Oct 7th, 2025):
-    - 
-    - 
+
 
 
 
