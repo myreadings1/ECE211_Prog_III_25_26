@@ -41,7 +41,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 - HW2
 
 ### Exams
-- Quiz1
+- Quiz1: Date (Oct 7th, 2025): covers all material up to this date. 
 - Quiz2
 - Midterm
 - Quiz3
