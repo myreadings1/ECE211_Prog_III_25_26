@@ -29,10 +29,12 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
    - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
    - if ... else
    - swith
-   - Loops (for, while, do ... while).
+   - Loops (for, while, do ... while)
+
 - Lab3 (Date: Oct 5th, 2025):
     - 
     - 
+
 - Lecture3: (Date: Oct 7th, 2025):
     - 
     - 
