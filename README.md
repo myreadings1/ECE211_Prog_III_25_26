@@ -36,7 +36,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
    - swith
    - Loops (for, while, do ... while)
 - Lab3 (Date: Oct 5th, 2025):
-    - ==>
+    - [PDF link](https://drive.google.com/file/d/1tnQ6i5dbs5DiyOJADCiWVlW-tpUbKAP1/view?usp=drivesdk)
 - Lecture3: (Date: Oct 7th, 2025):
     - ==>
 
