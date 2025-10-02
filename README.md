@@ -60,7 +60,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 ### Exams
 - Quiz1: Date (Oct 7th, 2025): covers all material up to this date.
    - Example1: Write a C code program to accept int as a user input and print stars on the output. For example, when the user input 8, the shape would be like this [picture](https://drive.google.com/file/d/16PQdUGh1IYMC55qDvf2i1IlcCJ_gAt-M/view?usp=drive_link).
-   - Example2: Write a C code program to count number of ones a variable x, where x is an integer.
+   - Example2: Write a C code program to count number of binary ones in a variable x, where x is an char. For example, if x==5, the binary equivelant if (00000101). Your program prints: 2 as number of binary ones.
 - Quiz2
 - Midterm
 - Quiz3
