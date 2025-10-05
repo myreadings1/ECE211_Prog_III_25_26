@@ -67,7 +67,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
    - During the exam, standard A4 white papers and writing pens (blue or black) can be used.
    - Sample Questions:
      - Write a C code program to accept integer as a user input and print stars '*' on the output. For example, when the user input 8, the shape would be like this [picture](https://drive.google.com/file/d/16PQdUGh1IYMC55qDvf2i1IlcCJ_gAt-M/view?usp=drive_link).
-     - Write a C code program to count number of binary ones in a variable x, where x is an char. For example, if x=5, the binary equivelant is (00000101). Your C program prints: 2 as number of binary ones.
+     - Write a C code program to count number of binary ones in a variable x, where x is a char. For example, if x=5, the binary equivelant is (00000101). Your C program prints: 2 as number of binary ones.
 - Quiz2
 - Midterm
 - Quiz3
