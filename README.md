@@ -17,9 +17,8 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 - You may run your C code online as follows:
 
-1- [Online Compiler 1](https://www.programiz.com/c-programming/online-compiler/)
-
-2- [Online Compiler 2](https://onecompiler.com/c)
+   - [Online C Compiler 1](https://www.programiz.com/c-programming/online-compiler/)
+   - [Online C Compiler 2](https://onecompiler.com/c)
 
 
 ### Lectures
