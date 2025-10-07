@@ -42,7 +42,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 - Lab3 (Date: Oct 5th, 2025):
     - Flow Control [PDF link](https://drive.google.com/file/d/1tnQ6i5dbs5DiyOJADCiWVlW-tpUbKAP1/view?usp=drivesdk)
 - Lecture3: (Date: Oct 7th, 2025):
-    - Pointers, Addresses, and Arrays in C [PDF Slides](https://drive.google.com/file/d/172-2v62vz17_zgo9FpNmAqnTOABif6lp/view?usp=drive_link)
+    - Pointers, Addresses, and Arrays in C [PDF Slides](https://drive.google.com/file/d/1PUTk26JSeXxQX-uO2kPS23b-djJTg98J/view?usp=drive_link)
 - Lab4 (Date: Oct 12th, 2025):
     - ==>
 - Lecture4: (Date: Oct 14th, 2025):
