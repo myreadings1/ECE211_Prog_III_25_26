@@ -105,6 +105,8 @@ int main(void) {
 - Project 1
 - Project 2
 
+### Excersis From The Reference Textbook
+- [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 
 ### General Examples In C
 - Arrays in C [Website Link](https://www.programiz.com/c-programming/c-arrays)
