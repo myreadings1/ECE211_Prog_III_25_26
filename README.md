@@ -65,7 +65,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 - HW2: Due on (Oct 13th, 2025)
    - (1) Write a program that uses printf to display the following picture on the screen: [Picture Link](https://drive.google.com/file/d/132I-wZQ_E6KVKTJolZiyK6OV8fIICELg/view?usp=drive_link)
-   - (2) Programming Projects Page (122): Project 1-12.
+   - (2) On the reference textbook, implement 5 out of 12 programming projects page (122). 
 
 
 ### Exams
