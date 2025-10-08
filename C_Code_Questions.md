@@ -78,3 +78,10 @@ Try all the exercises on pages (68-72) of the reference book.
 ```
 Try all the exercises on pages (93-97) of the reference book.
 ```
+
+#############################################
+### Q7
+
+```
+Try all the exercises on pages (121-124) of the reference book.
+```
