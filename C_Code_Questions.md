@@ -64,3 +64,10 @@ Try all the exercises on pages (33-35) of the reference book.
 ```
 Try all the exercises on pages (49-51) of the reference book.
 ```
+
+#############################################
+### Q5
+
+```
+Try all the exercises on pages (68-72) of the reference book.
+```
