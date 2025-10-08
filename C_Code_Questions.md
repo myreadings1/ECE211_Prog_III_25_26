@@ -99,3 +99,9 @@ Try all the exercises on pages (155-159) of the reference book.
 ```
 Try all the exercises on pages (177-182) of the reference book.
 ```
+#############################################
+### Q10
+
+```
+Try all the exercises on pages (214-218) of the reference book.
+```
