@@ -85,3 +85,10 @@ Try all the exercises on pages (93-97) of the reference book.
 ```
 Try all the exercises on pages (121-124) of the reference book.
 ```
+
+#############################################
+### Q8
+
+```
+Try all the exercises on pages (155-159) of the reference book.
+```
