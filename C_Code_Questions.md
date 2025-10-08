@@ -50,4 +50,9 @@ The statement
 ```
 celsius = (fahrenheit - FREEZING_PT) * SCALE_FACTOR;
 ```
+#############################################
+### Q3
 
+```
+Try all the exercises on pages (33-35) of the reference book.
+```
