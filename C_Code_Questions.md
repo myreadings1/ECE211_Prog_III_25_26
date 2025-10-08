@@ -56,3 +56,11 @@ celsius = (fahrenheit - FREEZING_PT) * SCALE_FACTOR;
 ```
 Try all the exercises on pages (33-35) of the reference book.
 ```
+
+
+#############################################
+### Q4
+
+```
+Try all the exercises on pages (49-51) of the reference book.
+```
