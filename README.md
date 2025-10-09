@@ -53,7 +53,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 ### Homeworks
 - General homework submission policy (for ALL Homeworks):
    - You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
-   - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like HW1, HW2, or ...), (c) Submission date, and (d) A code file (.c) to show your C code.
+   - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) A code file (.c) to show your C code.
    - Late homework submissions will receive a maximum grade of 50 out of 100.
 
 - HW1: Due on (Oct 6th, 2025)
@@ -68,7 +68,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 ### Exams
 - General exam policy (for ALL Exams)
    - During the exam, standard A4 white papers and writing pens (blue or black) can be used.
-   - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Midterm, or ...), and (c) Exam date.
+   - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2), and (c) Exam date.
    - Sample questions: [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Quiz1: Date (Oct 7th, 2025):
    - Covers all material up to this date.
