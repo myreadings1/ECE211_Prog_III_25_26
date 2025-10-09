@@ -88,7 +88,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 - [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 
 
-### General Examples In C
+### General Examples on Writing C Code
 - Arrays in C [Website Link](https://www.programiz.com/c-programming/c-arrays)
 - Strings in C [Website Link](https://www.programiz.com/c-programming/c-strings)
 - break..continue in C [Website Link](https://www.programiz.com/c-programming/c-break-continue-statement)
