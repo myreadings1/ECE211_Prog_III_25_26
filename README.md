@@ -32,8 +32,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 - Lab2 (Date: Sep 28th, 2025):
     - C Programming Lab Lecture [PDF Slides](https://drive.google.com/file/d/11hVEaPKcJZFCU0_mMPvJMOD6TLI14qks/view?usp=drive_link)
     - Lab Report [Download Link](https://docs.google.com/document/d/1vSdY7UlpTWXabYi0OfX-bqcWz25DrU89/edit?usp=drive_link&ouid=115959378594459904907&rtpof=true&sd=true)
-    - Lab2 template [Link](https://docs.google.com/document/d/1VZNnVMSTZ3zclmW76WbNpe0aJB-mlJSq/edit?usp=drivesdk&ouid=115959378594459904907&rtpof=true&sd=true)
-    
+
 - Lecture2: (Date: Sep 30th, 2025)
    - Control Statements in C  [PDF Slides](https://drive.google.com/file/d/1plYiiOeJDB_i-VBtjWoZBzcUmLA-lTQI/view?usp=drive_link):
    - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
@@ -42,6 +41,8 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
    - Loops (for, while, do ... while)
 - Lab3 (Date: Oct 5th, 2025):
     - Flow Control [PDF link](https://drive.google.com/file/d/1tnQ6i5dbs5DiyOJADCiWVlW-tpUbKAP1/view?usp=drivesdk)
+    - Lab2 template [Link](https://docs.google.com/document/d/1VZNnVMSTZ3zclmW76WbNpe0aJB-mlJSq/edit?usp=drivesdk&ouid=115959378594459904907&rtpof=true&sd=true)
+    
 - Lecture3: (Date: Oct 7th, 2025):
     - Pointers, Addresses, and Arrays in C [PDF Slides](https://drive.google.com/file/d/1PUTk26JSeXxQX-uO2kPS23b-djJTg98J/view?usp=drive_link)
 - Lab4 (Date: Oct 12th, 2025):
