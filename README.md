@@ -55,13 +55,15 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 
 ### Homeworks
+- Homework submission policy:
+  - Notes:
+     - (a) You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
+     - (b) You have to submit your code as a .c file.
+     - (c) Late homework submissions will receive a maximum grade of 50 out of 100.
+
 - HW1: Due on (Oct 6th, 2025)
   - (1) Write a C program that displays prime numbers between two intervals (numbers).
   - (2) Design and implement a simple calculator program based on C code.
-  - Notes:
-     - (a) You may submit your HW1 to (wahhab.albazrqa@uokufa.edu.iq).
-     - (b) You have to submit your code as a .c file.
-     - (c) Late homework submissions will receive a maximum grade of 50 out of 100.
 
 - HW2: Due on (Oct 13th, 2025)
    - (1) Write a program that uses printf to display the following picture on the screen: [Picture Link](https://drive.google.com/file/d/132I-wZQ_E6KVKTJolZiyK6OV8fIICELg/view?usp=drive_link)
