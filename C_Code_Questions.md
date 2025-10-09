@@ -1,3 +1,36 @@
+### Sample Questions for Quiz1
+
+- Q1: Write a C code program to accept integer as a user input and print stars '*' on the output. For example, when the user input 8, the shape would be like this [picture](https://drive.google.com/file/d/16PQdUGh1IYMC55qDvf2i1IlcCJ_gAt-M/view?usp=drive_link).
+- Q2: Write a C code program to count number of binary ones in a variable x, where x is a char. For example, if x=5, the binary equivelant is (00000101). Your C program prints: 2 as number of binary ones.
+- Solution for Q2:
+
+
+```
+#include <stdio.h>
+
+int main(void) {
+    unsigned int num;
+
+    printf("Please enter an integer: ");
+    if (scanf("%u", &num) == 1) {
+        int count = 0;
+        while (num > 0) {
+            count += num & 1;
+            num >>= 1;
+        }
+        printf("%d\n", count);
+    } else {
+        printf("Warning: this is not a valid integer\n");
+    }
+    return 0;
+}
+
+```
+
+
+#############################################
+
+
 ### Q1
 - Calculating the weight of a box gives us the following program.
 ```
