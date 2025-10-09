@@ -1,16 +1,18 @@
 # ECE211 Computer Programming III 2025-2026
 This webpage is dedicated for the second year students of ECE211 Comp Prog III 2025-2026 Class, with the University of Kufa.
 
+###############################################
 ### Class Instructors
 - Wahhab R. Mousa (Email: wahhab.albazrqa@uokufa.edu.iq)
 - Ameer Alshammaa (Email: ameer.alshammaa@uokufa.edu.iq)
 
+###############################################
 ### References
 - The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King ==> [Download PDF](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
    - Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file).
 - MIT OpenCourseWare [Website Link](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/lecture-notes/)
 
-
+###############################################
 ### Compile and Run C Programs on Windows Machine
 - Option 1: Installing CLion with GCC Compiler [Website]==> (https://www.jetbrains.com/clion/)
 - Option 2: Installing GCC Eclipse and C Compiler on Windows computer ==> [Watch on Youtube](https://www.youtube.com/watch?v=jfuJ82ODY2U)
@@ -20,7 +22,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
    - Online C Compiler 1 ==> [Website Link](https://www.programiz.com/c-programming/online-compiler/)
    - Online C Compiler 2 ==> [Website Link](https://onecompiler.com/c)
 
-
+###############################################
 ### Lectures
 - Lab1  (Date: Sep 21st, 2025):
     - Introduction 
@@ -49,13 +51,9 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
     - ==>
 
   
-
-
-
-
 ###############################################
 ### Homeworks
-- Homework submission policy (for ALL Homeworks):
+- General homework submission policy (for ALL Homeworks):
    - You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
    - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like HW1, HW2, or ...), (c) Submission date, and (d) A code file (.c) to show your C code.
    - Late homework submissions will receive a maximum grade of 50 out of 100.
@@ -68,9 +66,9 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
    - (1) Write a program that uses printf to display the following picture on the screen: [Picture Link](https://drive.google.com/file/d/132I-wZQ_E6KVKTJolZiyK6OV8fIICELg/view?usp=drive_link)
    - (2) On the reference textbook, implement 5 out of 12 programming projects page (122). 
 
-
+###############################################
 ### Exams
-- Exam policy (for ALL Exams)
+- General exam policy (for ALL Exams)
    - (a) During the exam, standard A4 white papers and writing pens (blue or black) can be used.
    - (b) On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2, Midterm, or ...), and (c) Exam date.
 - Quiz1: Date (Oct 7th, 2025):
@@ -84,14 +82,16 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 - Quiz3
 - Quiz4
 
-
+###############################################
 ### Mini Project
 - Project 1
 - Project 2
 
-### Excersis From The Reference Textbook
+###############################################
+### Exercises From The Reference Textbook
 - [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 
+###############################################
 ### General Examples In C
 - Arrays in C [Website Link](https://www.programiz.com/c-programming/c-arrays)
 - Strings in C [Website Link](https://www.programiz.com/c-programming/c-strings)
