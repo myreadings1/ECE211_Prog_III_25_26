@@ -67,12 +67,11 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 ### Exams
 - General exam policy (for ALL Exams)
-   - (a) During the exam, standard A4 white papers and writing pens (blue or black) can be used.
-   - (b) On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2, Midterm, or ...), and (c) Exam date.
+   - During the exam, standard A4 white papers and writing pens (blue or black) can be used.
+   - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2, Midterm, or ...), and (c) Exam date.
+   - Sample questions: [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Quiz1: Date (Oct 7th, 2025):
    - Covers all material up to this date.
-   - 
-   - Sample Questions: [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Quiz2: Date (Oct 14th, 2025):
    - Covers all material up to this date.       
 - Midterm
