@@ -55,11 +55,10 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 ###############################################
 ### Homeworks
-- Homework submission policy:
-  - Notes:
-     - (a) You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
-     - (b) You have to submit your code as a .c file.
-     - (c) Late homework submissions will receive a maximum grade of 50 out of 100.
+- Homework submission policy (for ALL Homeworks):
+   - You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
+   - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like HW1, HW2, or ...), (c) Submission date, and (d) A code file (.c) to show your C code.
+   - Late homework submissions will receive a maximum grade of 50 out of 100.
 
 - HW1: Due on (Oct 6th, 2025)
   - (1) Write a C program that displays prime numbers between two intervals (numbers).
@@ -71,35 +70,13 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III 2
 
 
 ### Exams
+- Exam policy (for ALL Exams)
+   - (a) During the exam, standard A4 white papers and writing pens (blue or black) can be used.
+   - (b) On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2, Midterm, or ...), and (c) Exam date.
 - Quiz1: Date (Oct 7th, 2025):
    - Covers all material up to this date.
-   - During the exam, standard A4 white papers and writing pens (blue or black) can be used.
-   - Sample Questions:
-     - Write a C code program to accept integer as a user input and print stars '*' on the output. For example, when the user input 8, the shape would be like this [picture](https://drive.google.com/file/d/16PQdUGh1IYMC55qDvf2i1IlcCJ_gAt-M/view?usp=drive_link).
-     - Write a C code program to count number of binary ones in a variable x, where x is a char. For example, if x=5, the binary equivelant is (00000101). Your C program prints: 2 as number of binary ones.
-
-
-```
-#include <stdio.h>
-
-int main(void) {
-    unsigned int num;
-
-    printf("Please enter an integer: ");
-    if (scanf("%u", &num) == 1) {
-        int count = 0;
-        while (num > 0) {
-            count += num & 1;
-            num >>= 1;
-        }
-        printf("%d\n", count);
-    } else {
-        printf("Warning: this is not a valid integer\n");
-    }
-    return 0;
-}
-
-```
+   - 
+   - Sample Questions: [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Quiz2: Date (Oct 14th, 2025):
    - Covers all material up to this date.       
 - Quiz3
