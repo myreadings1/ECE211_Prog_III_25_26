@@ -31,7 +31,7 @@ int main(void) {
 #############################################
 
 
-### Q1
+### Exercises1
 - Calculating the weight of a box gives us the following program.
 ```
 /* Computes the dimensional weight of a box from input provided by the user */
@@ -62,7 +62,7 @@ Volume (cubic inches): 960
 Dimensional weight (pounds): 6
 ```
 #############################################
-### Q2
+### Exercises2
 
 ```
 /* Converts a Fahrenheit temperature to Celsius */
@@ -84,7 +84,7 @@ The statement
 celsius = (fahrenheit - FREEZING_PT) * SCALE_FACTOR;
 ```
 #############################################
-### Q3
+### Exercises3
 
 ```
 Try all the exercises on pages (33-35) of the reference book.
@@ -92,48 +92,48 @@ Try all the exercises on pages (33-35) of the reference book.
 
 
 #############################################
-### Q4
+### Exercises4
 
 ```
 Try all the exercises on pages (49-51) of the reference book.
 ```
 
 #############################################
-### Q5
+### Exercises5
 
 ```
 Try all the exercises on pages (68-72) of the reference book.
 ```
 
 #############################################
-### Q6
+### Exercises6
 
 ```
 Try all the exercises on pages (93-97) of the reference book.
 ```
 
 #############################################
-### Q7
+### Exercises7
 
 ```
 Try all the exercises on pages (121-124) of the reference book.
 ```
 
 #############################################
-### Q8
+### Exercises8
 
 ```
 Try all the exercises on pages (155-159) of the reference book.
 ```
 
 #############################################
-### Q9
+### Exercises9
 
 ```
 Try all the exercises on pages (177-182) of the reference book.
 ```
 #############################################
-### Q10
+### Exercises10
 
 ```
 Try all the exercises on pages (214-218) of the reference book.
