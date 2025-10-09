@@ -53,7 +53,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 ### Homeworks
 - General homework submission policy (for ALL Homeworks):
    - You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
-   - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) A code file (.c) to show your C code.
+   - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) A text file (.c) to show your C code.
    - Late homework submissions will receive a maximum grade of 50 out of 100.
 
 - HW1: Due on (Oct 6th, 2025)
