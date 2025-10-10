@@ -46,7 +46,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 - Lecture3: (Date: Oct 7th, 2025):
     - Pointers, Addresses, and Arrays in C [PDF Slides](https://drive.google.com/file/d/1PUTk26JSeXxQX-uO2kPS23b-djJTg98J/view?usp=drive_link)
 - Lab4 (Date: Oct 12th, 2025):
-    - ==>
+    - Pointers and Arrays [PDF Files](https://drive.google.com/file/d/1Xof7C2zGKzrynnbXoL2RGbc0bmdViph2/view?usp=drivesdk)
 - Lecture4: (Date: Oct 14th, 2025):
     - ==>
 
