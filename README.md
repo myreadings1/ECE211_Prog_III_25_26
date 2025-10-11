@@ -54,7 +54,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 - General homework submission policy (for ALL Homeworks):
    - You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
    - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) A text file (.c) to show your C code.
-   - Late homework submissions will receive a maximum grade of 50 out of 100.
+   - Late homework submissions (48 Hours) will receive a maximum grade of 50 out of 100. Late homework submissions (more than 48 Hours) will receive a maximum grade of 25 out of 100..
 
 - HW1: Due on (Oct 6th, 2025)
   - (1) Write a C program that displays prime numbers between two intervals (numbers).
