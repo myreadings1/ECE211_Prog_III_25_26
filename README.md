@@ -34,11 +34,9 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
     - Lab Report [Download Link](https://docs.google.com/document/d/1vSdY7UlpTWXabYi0OfX-bqcWz25DrU89/edit?usp=drive_link&ouid=115959378594459904907&rtpof=true&sd=true)
 
 - Lecture2: (Date: Sep 30th, 2025)
-   - Control Statements in C  [PDF Slides](https://drive.google.com/file/d/1plYiiOeJDB_i-VBtjWoZBzcUmLA-lTQI/view?usp=drive_link):
+   - Control Statements in C: if..switch.. Loops (for.. while.do-while)  [PDF Slides](https://drive.google.com/file/d/1plYiiOeJDB_i-VBtjWoZBzcUmLA-lTQI/view?usp=drive_link):
    - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
-   - if ... else
-   - swith
-   - Loops (for, while, do ... while)
+
 - Lab3 (Date: Oct 5th, 2025):
     - Flow Control [PDF link](https://drive.google.com/file/d/1tnQ6i5dbs5DiyOJADCiWVlW-tpUbKAP1/view?usp=drivesdk)
     - Lab2 template [Link](https://docs.google.com/document/d/1VZNnVMSTZ3zclmW76WbNpe0aJB-mlJSq/edit?usp=drivesdk&ouid=115959378594459904907&rtpof=true&sd=true)
