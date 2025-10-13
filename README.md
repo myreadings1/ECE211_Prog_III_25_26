@@ -49,6 +49,10 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
     - Quiz Group B ==> [Solutions](https://drive.google.com/file/d/1zeqPgLVs21GXSOppM5WXSR6xGGwbAtbS/view?usp=drive_link)
 - Lecture4: (Date: Oct 14th, 2025):
     - ==>
+- Lab5 (Date: Oct 19th, 2025):
+    - ==>
+- Lecture5: (Date: Oct 21st, 2025):
+    - ==>
 
   
 
