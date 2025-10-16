@@ -71,7 +71,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
    - (2) On the reference textbook, implement 5 out of 12 programming projects page (122).
 - HW3: Due on (Oct 20th,2025) 
    - (1) Write a C code program that swaps two integers without using a template integer.
-   - (2) Write a C code program that accepts a float matrix M (8*19) from user's input.
+   - (2) Write a C code program that accepts a float matrix M (8*19) from user's input and finds the transpose of M.
    - (3) Write a C code program that writes a float matrix A (8*19) to a text file, read it to a new matrix B, and prints B on the output screen.
    - (4) Write a C code program that accepts an integer (H) from user's input and detects occurance of three ones in a row (111) in H. If we need to detect three zeros in a raw, what should be changed in your code.
 
