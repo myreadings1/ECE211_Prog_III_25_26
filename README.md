@@ -50,7 +50,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 - Lecture4: (Date: Oct 14th, 2025):
     - Multidimensional Arrays, and Files in C [PDF Slides](https://drive.google.com/file/d/13HE4HhyUhVeMun0pA0vWXIRQO_gFsUwE/view?usp=drive_link)
 - Lab5 (Date: Oct 19th, 2025):
-    - ==>
+    - Lab sheet [PDF Sheet](https://drive.google.com/file/d/1w8CJCO8y-Yv2DjBqcTdrp9_kWGCh0iAf/view?usp=drivesdk)
 - Lecture5: (Date: Oct 21st, 2025):
     - ==>
 
