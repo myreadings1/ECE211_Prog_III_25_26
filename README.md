@@ -53,6 +53,10 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
     - Lab sheet [PDF Sheet](https://drive.google.com/file/d/1w8CJCO8y-Yv2DjBqcTdrp9_kWGCh0iAf/view?usp=drivesdk)
 - Lecture5: (Date: Oct 21st, 2025):
     - Files and Structures in C [PDF Slides](https://drive.google.com/file/d/1fm8H2266yc71mDIguz7FBHEjn31H_3ba/view?usp=drive_link)
+- Lab6 (Date: Oct 26th, 2025):
+    - ==> 
+- Lecture6: (Date: Oct 28st, 2025):
+    - ==> 
 
   
 
