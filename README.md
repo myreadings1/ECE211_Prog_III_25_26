@@ -6,6 +6,18 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 - Wahhab R. Mousa (Email: wahhab.albazrqa@uokufa.edu.iq)
 - Ameer Alshammaa (Email: ameer.alshammaa@uokufa.edu.iq)
 
+### Grading Policy 
+Here is a temporary grading policy:
+- Homeworks: 2 Points
+- Quizzes: 20 Points
+- Attendance: 3 Points
+- Mini project: 5 Points
+- Lab: 10 Points
+- Midterms: 10 Points
+- Final Exam: 40 Points
+- Final Lab Exam: 10 Points
+- The total is: 100 Points 
+
 ### References
 - The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King ==> [Download PDF](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
    - Solutions for the textbook exercises ==> [Link on GitHub](https://github.com/mhamdyx/C-programming-A-Modern-Approach-2nd-ed-Solutions?tab=readme-ov-file).
