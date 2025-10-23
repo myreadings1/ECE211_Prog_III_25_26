@@ -79,10 +79,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
    - (3) Write a C code program that writes a float matrix A (8*19) to a text file, read it to a new matrix B, and prints B on the output screen.
    - (4) Write a C code program that accepts an integer (H) from user's input and detects occurance of three ones in a row (111) in H. For example, if the user input is 71, which is 0b1000111 in binary, your program outputs: Yes.. There's a three ones in a row. If the user input is 70, which is 0b1000110 in binary, your program outputs: Not found. If we need to detect three zeros in a raw, what should be changed in your code?
 - HW4: Due on (Oct 28th,2025)
-   - Write a code program that user C structures to hold students data. Then, use functions to write C structures to a C file. You should try the following:
-   - Try both types of file: text and binary.
-   - Create C structures at run time using dynamic memory allocation.
-   - Use C files.
+   - Write a code program that user C structures to hold students data. Then, use functions to write C structures to a C file. You should try the following: (1) Try both types of file: text and binary, (2) Create C structures at run time using dynamic memory allocation, and (3) Use C files.
 
 
 ### Exams
