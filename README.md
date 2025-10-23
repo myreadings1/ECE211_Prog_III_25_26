@@ -11,9 +11,9 @@ Here is a temporary grading policy:
 - Homeworks: 2 Points
 - Quizzes: 20 Points
 - Attendance: 3 Points
-- Mini project: 5 Points
+- Mini Project: 5 Points
 - Lab: 10 Points
-- Midterms: 10 Points
+- Midterm Exam: 10 Points
 - Final Exam: 40 Points
 - Final Lab Exam: 10 Points
 - The total is: 100 Points 
