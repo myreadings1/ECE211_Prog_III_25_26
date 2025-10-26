@@ -68,6 +68,10 @@ Here is a temporary grading policy:
 - Lab6 (Date: Oct 26th, 2025):
     - Lab Sheet [PDF slides](https://drive.google.com/file/d/17gsRQVEzYQL9T4Q3M3IZ2k_rBTOg38l2/view?usp=drivesdk)
 - Lecture6: (Date: Oct 28th, 2025):
+    - Data Structures in C [PDF Slides](https://drive.google.com/file/d/1lum-JNIAwpu-WCCDIwV1V23aDEDnBI60/view?usp=drive_link)
+- Lab7 (Date: Nov 2nd, 2025):
+    - ==>
+- Lecture7: (Date: Nov 4th, 2025):
     - ==> 
 
   
