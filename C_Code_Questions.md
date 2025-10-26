@@ -28,20 +28,12 @@ int main(void) {
 ```
 #############################################
 ```
-Quiz1: 
+Questions from Quiz1 and Quiz2: 
 - Q1. Write a code program c code program to count number of zeros in an integer.
-- Q2. Write a C program to print the following figure on the output __________
--
-- Quiz 1:
-- Q1. Write a C code program that prints the following figure on the output: * **** *** ** * ** *** **** *
-- Q2. Write a C code program that counts number of ones in the upper part of a chart: ______
-
-Quiz2:
-- Q1. Given an integer array X, write a C code program to reverse this array X.
-- Q2. Write a C code program that detects occurrence of 3 ones in a row in integer. __________
-- Quiz2:
-- Q1. Write a C code program that reverses an array of integer.
-- Q2. Given an integer array X, write a C code program to reverse this array X.
+- Q2. Write a C code program that prints the following figure on the output: 
+- Q3. Write a C code program that counts number of ones in the upper part of a char: ______
+- Q4. Given an array of integers X, write a C code program to reverse this array X.
+- Q5. Write a C code program that detects occurrence of 3 ones in a row in integer. __________
 ```
 #############################################
 
