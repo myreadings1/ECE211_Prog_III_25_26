@@ -94,9 +94,8 @@ Here is a temporary grading policy:
    - (2) Write a C code program that accepts a float matrix M (8*19) from user's input and finds the transpose of M.
    - (3) Write a C code program that writes a float matrix A (8*19) to a text file, read it to a new matrix B, and prints B on the output screen.
    - (4) Write a C code program that accepts an integer (H) from user's input and detects occurance of three ones in a row (111) in H. For example, if the user input is 71, which is 0b1000111 in binary, your program outputs: Yes.. There's a three ones in a row. If the user input is 70, which is 0b1000110 in binary, your program outputs: Not found. If we need to detect three zeros in a raw, what should be changed in your code?
-- HW4:
-   - Due on (Oct 27th,2025): Write a code program that uses C structures to hold students data (10 students). Your program should read students data from user input. Then, use functions to write C structures to a C file. You should try the following: (1) Try both types of file: text and binary, (2) Create C structures at run time using dynamic memory allocation, and (3) Use C files to store students data.
- - HW5 on (Nov 1st,2025): Note there are links (at the bottom of this website) which contain useful C code that helps to address this homework.
+- HW4: Due on (Oct 27th,2025): Write a code program that uses C structures to hold students data (10 students). Your program should read students data from user input. Then, use functions to write C structures to a C file. You should try the following: (1) Try both types of file: text and binary, (2) Create C structures at run time using dynamic memory allocation, and (3) Use C files to store students data.
+ - HW5 Due on (Nov 1st,2025): Note there are links (at the bottom of this website) which contain useful C code that helps to address this homework.
      - Write a C code program that implement a stack data structure. The basic operations you should include: createStack(), Push(), Pop(), stackSize(), PrintStack().
      - Write a C code program that implement a queue data structure. The basic operations you should include: createQueue(), EnQueue(), DeQueue(), QueueSize(), PrintQueue();
      - Write a C code program that implement a linked list data structure. The basic operations you should include: AddNode(), DeleteNode(), LinkedListSize(), FindElement(); 
