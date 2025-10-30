@@ -137,6 +137,9 @@ Here is a temporary grading policy:
 - Structures and Pointers in C [Website Link](https://www.programiz.com/c-programming/c-structures-pointers)
 - Dynamic Memory Allocation in C [Website Link](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
 - Stack Implementation in C [Website Link](https://www.programiz.com/dsa/stack)
+- Queue Implementation in C [Website](https://www.programiz.com/dsa/queue)
+- Linked List in C [Website](https://www.programiz.com/dsa/linked-list)
+- Linked List Operations in C [Website](https://www.programiz.com/dsa/linked-list-operations)
 - Linked List in C (virtualization) [Website Link](https://programiz.pro/code-visualizer/dsa?type=linked_list)
 - هل تشعر بالتشتت وعدم الانتباه؟ اقرا هذا المقال
   - [Website Link](https://www.aljazeera.net/misc/2025/10/7/%D9%87%D9%84-%D8%AA%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D8%AA%D8%AA-%D8%B7%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D9%82%D8%AA-%D8%A5%D9%84%D9%8A%D9%83-3-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA)
