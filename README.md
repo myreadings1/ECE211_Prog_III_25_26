@@ -96,10 +96,10 @@ Here is a temporary grading policy:
    - (4) Write a C code program that accepts an integer (H) from user's input and detects occurance of three ones in a row (111) in H. For example, if the user input is 71, which is 0b1000111 in binary, your program outputs: Yes.. There's a three ones in a row. If the user input is 70, which is 0b1000110 in binary, your program outputs: Not found. If we need to detect three zeros in a raw, what should be changed in your code?
 - HW4:
    - Due on (Oct 27th,2025): Write a code program that uses C structures to hold students data (10 students). Your program should read students data from user input. Then, use functions to write C structures to a C file. You should try the following: (1) Try both types of file: text and binary, (2) Create C structures at run time using dynamic memory allocation, and (3) Use C files to store students data.
- - HW5 on (Nov 1st,2025): 
-     - Write a C code program that implement a stack data structure.
-     - Write a C code program that implement a queue data structure.
-     - Write a C code program that implement a linked list data structure.
+ - HW5 on (Nov 1st,2025): Note there are links (at the bottom of this website) which contain useful C code that helps to address this homework.
+     - Write a C code program that implement a stack data structure. The basic operations you should include: createStack(), Push(), Pop(), stackSize(), PrintStack().
+     - Write a C code program that implement a queue data structure. The basic operations you should include: createQueue(), EnQueue(), DeQueue(), QueueSize(), PrintQueue();
+     - Write a C code program that implement a linked list data structure. The basic operations you should include: AddNode(), DeleteNode(), LinkedListSize(), FindElement(); 
      - Write a C code program that create a linked list data structure name it (List1). Then, write a C code to reverse List1 in a new linked list (List2). For example, List1 = 2,7,9,12,17. List2 should be: 17,12,9,7,2.
      - Write a C code program that reverses an array of characters using stack data structure. For example for the array A: b,y,u,r,p. The reverse is: p,r,u,y,b.
 
