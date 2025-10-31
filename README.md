@@ -101,7 +101,7 @@ Here is a temporary grading policy:
      - Write a C code program that implement a queue data structure. The basic operations you should include: createQueue(), EnQueue(), DeQueue(), QueueSize(), PrintQueue();
      - Write a C code program that implement a linked list data structure. The basic operations you should include: AddNode(), DeleteNode(), LinkedListSize(), FindElement(); 
      - Write a C code program that create a linked list data structure name it (List1). Then, write a C code to reverse List1 in a new linked list (List2). For example, List1 = 2,7,9,12,17. List2 should be: 17,12,9,7,2.
-     - Write a C code program that reverses an array of characters using stack data structure. For example for the array A: b,y,u,r,p. The reverse is: p,r,u,y,b.
+     - Write a C code program that reverses an array of characters using stack data structure. For example for the array A: b,y,u,r,p. The reverse is B: p,r,u,y,b.
 
 
 ### Exams
