@@ -139,6 +139,7 @@ Here is a temporary grading policy:
 - Bitwise questions in C [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/BitwiseQuestions.md)
 - Bitwise extra questions [Website Link](https://drive.google.com/file/d/1OOMzStWyFsq5vZn03Ad6u3Y_bh1zh83I/view?usp=drive_link)
 - Files in C [Website Link](https://www.programiz.com/c-programming/c-file-input-output)
+- Structures in C [Website Link](https://www.programiz.com/c-programming/c-structures)
 - Structures and Pointers in C [Website Link](https://www.programiz.com/c-programming/c-structures-pointers)
 - Dynamic Memory Allocation in C [Website Link](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
 - Stack Implementation in C [Website Link](https://www.programiz.com/dsa/stack)
