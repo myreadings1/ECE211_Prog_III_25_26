@@ -73,6 +73,7 @@ Here is a temporary grading policy:
     - Lab Sheet [PDF Slides](https://drive.google.com/file/d/1lR_YopsGAVKhtbZgwEgTsLv_D9nl0z9v/view?usp=drive_link)
 - Lecture7: (Date: Nov 4th, 2025):
     - Data Structures in C.. Cont [PDF Slides](https://drive.google.com/file/d/1VQgzlunT9Cu2Fu2TWQD_hGVd-VGRg8qY/view?usp=drive_link)
+    - Note: the source C code is available at the end of this page.
 - Lab8 (Date: TBS):
     - ==>
 - Lecture8: (Date: TBS):
@@ -149,6 +150,7 @@ Here is a temporary grading policy:
 - Dynamic Memory Allocation in C [Website Link](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
 - Stack Implementation in C [Website Link](https://www.programiz.com/dsa/stack)
 - Queue Implementation in C [Website](https://www.programiz.com/dsa/queue)
+- Circular Implementation Queue in C [Website](https://www.programiz.com/dsa/circular-queue)
 - Linked List in C [Website](https://www.programiz.com/dsa/linked-list)
 - Linked List Operations in C [Website](https://www.programiz.com/dsa/linked-list-operations)
 - Linked List in C (virtualization) [Website Link](https://programiz.pro/code-visualizer/dsa?type=linked_list)
