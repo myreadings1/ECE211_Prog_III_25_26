@@ -72,7 +72,12 @@ Here is a temporary grading policy:
 - Lab7 (Date: Nov 2nd, 2025):
     - Lab Sheet [PDF Slides](https://drive.google.com/file/d/1lR_YopsGAVKhtbZgwEgTsLv_D9nl0z9v/view?usp=drive_link)
 - Lecture7: (Date: Nov 4th, 2025):
-    - ==> 
+    - Data Structures in C.. Cont [PDF Slides](https://drive.google.com/file/d/1VQgzlunT9Cu2Fu2TWQD_hGVd-VGRg8qY/view?usp=drive_link)
+- Lab8 (Date: TBS):
+    - ==>
+- Lecture8: (Date: TBS):
+    - ==>
+  
 
   
 
