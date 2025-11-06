@@ -29,7 +29,20 @@ int main(void) {
 #############################################
 ```
 Questions from Quiz1 and Quiz2: 
-- Q1. Write a code program c code program to count number of zeros in an integer.
+- Q1. Write a C code program to count number of zeros in an integer.
+- Q2. Write a C code program that prints the following figure on the output: 
+- Q3. Write a C code program that counts number of ones in the upper part of a char: ______
+- Q4. Given an array of integers X, write a C code program to reverse this array X.
+- Q5. Write a C code program that detects occurrence of 3 ones in a row in integer. __________
+```
+#############################################
+
+```
+- Stack
+- Queue
+- Linked List
+Questions 
+- Q1. Write a C code program that search a linked list for an element. It should prints the node number if found; and prints (-1) otherwise.
 - Q2. Write a C code program that prints the following figure on the output: 
 - Q3. Write a C code program that counts number of ones in the upper part of a char: ______
 - Q4. Given an array of integers X, write a C code program to reverse this array X.
