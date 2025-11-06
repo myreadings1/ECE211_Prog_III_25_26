@@ -41,7 +41,7 @@ Questions from Quiz1 and Quiz2:
 - Stack
 - Queue
 - Linked List
-Questions 
+Exam Questions 
 - Q1. Write a C code program that searches a linked list for an element. It should prints the node number if found; and prints (-1) otherwise.
 - Q2. Write a C code program that defines a linked list (list1). Your code should create List2 which represents the reverse of List1. 
 - Q3. Write a C code program that defines two arrays A and B. Your code finds the reverse of A and store it in B. You should utilize a stack.
