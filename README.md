@@ -121,8 +121,9 @@ Here is a temporary grading policy:
    - Covers all material up to this date.
 - Quiz3: Date (Oct 28th, 2025).
    - Covers all materials up to this date.  
-- Midterm Exam (Nov 4th, 2025)
+- Midterm Exam (Nov 9th, 2025)
    - Covers all the materials up to this date.
+   - Nice Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Quiz3
 - Quiz4
 
