@@ -42,11 +42,15 @@ Questions from Quiz1 and Quiz2:
 - Queue
 - Linked List
 Questions 
-- Q1. Write a C code program that search a linked list for an element. It should prints the node number if found; and prints (-1) otherwise.
-- Q2. Write a C code program that prints the following figure on the output: 
-- Q3. Write a C code program that counts number of ones in the upper part of a char: ______
-- Q4. Given an array of integers X, write a C code program to reverse this array X.
-- Q5. Write a C code program that detects occurrence of 3 ones in a row in integer. __________
+- Q1. Write a C code program that searches a linked list for an element. It should prints the node number if found; and prints (-1) otherwise.
+- Q2. Write a C code program that defines a linked list (list1). Your code should create List2 which represents the reverse of List1. 
+- Q3. Write a C code program that defines two arrays A and B. Your code finds the reverse of A and store it in B. You should utilize a stack.
+- Q4. Write a C code program that utilizes a linked list A as a stack. 
+- Q5. Write a C code program that utilizes a linked list A as a queue.
+- Q6. Write a C code program that store elements of an array A into a linked list.
+- Q7. Write a C code program that store elements of a linked list A into an array.
+- Q8. Write a C code program that store elements of a linked list A into a stack that is implemented with an array.
+- Q9. Write a C code program that deletes a given element from a linked list.
 ```
 #############################################
 
