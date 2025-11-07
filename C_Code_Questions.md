@@ -51,6 +51,12 @@ Exam Questions
 - Q7. Write a C code program that store elements of a linked list A into an array.
 - Q8. Write a C code program that store elements of a linked list A into a stack that is implemented with an array.
 - Q9. Write a C code program that deletes a given element from a linked list.
+- Q10. Design a circular queue using a linked list.
+- Q11. If you have two arrays A (array size=7) and B (array size=9), design a circular queue using these arrays.
+- Q12. If you have two arrays A (array size=7) and B (array size=9), design a stack using these arrays.
+- Q13. If you have two linked lists A and B, write a C code to connect them to produce a new linked list C.
+- Q14. If you have two linked lists A and B, write a C code to connect them as a circular queue.
+- Q15. If you have a linked list A (size of A > two nodes), design a C code program that seprates A into two lists B and C based on number of nodes in A. You may accept number of nodes in A as user input x.
 ```
 #############################################
 
