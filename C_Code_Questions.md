@@ -57,6 +57,9 @@ Exam Questions
 - Q13. If you have two linked lists A and B, write a C code to connect them to produce a new linked list C.
 - Q14. If you have two linked lists A and B, write a C code to connect them as a circular queue.
 - Q15. If you have a linked list A (size of A > two nodes), design a C code program that seprates A into two lists B and C based on number of nodes in A. You may accept number of nodes in A as user input x.
+- Q16. Design a C code program that searches for an element in: (a) stack, (b) queue, and (c) linked list.
+- Q17. Design a C code program that inseart an element in: (a) stack, (b) queue, and (c) linked list.
+- Q18. Design a C code program that removes an element from: (a) stack, (b) queue, and (c) linked list.
 ```
 #############################################
 
