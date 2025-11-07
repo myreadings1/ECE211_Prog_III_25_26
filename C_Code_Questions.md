@@ -42,24 +42,25 @@ Questions from Quiz1 and Quiz2:
 - Queue
 - Linked List
 Exam Questions 
-- Q1. Write a C code program that searches a linked list for an element. It should prints the node number if found; and prints (-1) otherwise.
-- Q2. Write a C code program that defines a linked list (list1). Your code should create List2 which represents the reverse of List1. 
-- Q3. Write a C code program that defines two arrays A and B. Your code finds the reverse of A and store it in B. You should utilize a stack.
-- Q4. Write a C code program that utilizes a linked list A as a stack. 
-- Q5. Write a C code program that utilizes a linked list A as a queue.
-- Q6. Write a C code program that store elements of an array A into a linked list.
-- Q7. Write a C code program that store elements of a linked list A into an array.
-- Q8. Write a C code program that store elements of a linked list A into a stack that is implemented with an array.
-- Q9. Write a C code program that deletes a given element from a linked list.
-- Q10. Design a circular queue using a linked list.
-- Q11. If you have two arrays A (array size=7) and B (array size=9), design a circular queue using these arrays.
-- Q12. If you have two arrays A (array size=7) and B (array size=9), design a stack using these arrays.
-- Q13. If you have two linked lists A and B, write a C code to connect them to produce a new linked list C.
-- Q14. If you have two linked lists A and B, write a C code to connect them as a circular queue.
-- Q15. If you have a linked list A (size of A > two nodes), design a C code program that seprates A into two lists B and C based on number of nodes in A. You may accept number of nodes in A as user input x.
-- Q16. Design a C code program that searches for an element in: (a) stack, (b) queue, and (c) linked list.
-- Q17. Design a C code program that inseart an element in: (a) stack, (b) queue, and (c) linked list.
-- Q18. Design a C code program that removes an element from: (a) stack, (b) queue, and (c) linked list.
+Q1. Write a C function to search a singly linked list for a given element. The function should return the based index (node number) if the element is found, and -1 otherwise.
+Q2. Write a C program that creates a new linked list (List2) containing the reverse of the elements from an existing linked list (List1).
+Q3. Write a C program to reverse the elements of an array A and store the result in an array B, utilizing a stack data structure for the reversal process.
+Q4. Write C code demonstrating the implementation of a stack using a singly linked list. (Include push and pop operations).
+Q5. Write C code demonstrating the implementation of a queue using a singly linked list. (Include enqueue and dequeue operations).
+Q6. Write a C program to store all elements of a given array A into a new singly linked list.
+Q7. Write a C program to copy all elements from a given linked list A into a new array.
+Q8. Write a C program that first implements a stack using an array, and then transfers all elements from a linked list A into this stack.
+Q9. Write a C function to delete the first occurrence of a specified element (by value) from a singly linked list.
+Q10. Design and implement a circular queue using a singly linked list in C. (Include enqueue and dequeue operations).
+Q11. Design and implement a circular queue in C by strategically utilizing two separate arrays (A and B) with different sizes (7 and 9).
+Q12. Design and implement a single stack in C by strategically utilizing two separate arrays (A and B) with different sizes (7 and 9).
+Q13. Write a C function to concatenate two existing linked lists (A and B) into a single new linked list (C).
+Q14. Write C code to implement a circular queue structure by linking two existing linked lists (A and B).
+Q15. Write a C function to split an existing linked list (A) into two new linked lists (B and C). The split point should be determined by a user-defined number of nodes (x). (Assume size of A > x and A > 2).
+Q16. Design and write C functions to search for a specific element in: (a) a stack, (b) a queue, and (c) a linked list.
+Q17. Design and write C functions to insert an element into: (a) a stack (push), (b) a queue (enqueue), and (c) a linked list (e.g., at the beginning/end).
+Q18. Design and write C functions to remove an element from: (a) a stack (pop), (b) a queue (dequeue), and (c) a linked list (e.g., from the beginning/end).
+
 ```
 #############################################
 
