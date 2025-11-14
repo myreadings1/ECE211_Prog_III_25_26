@@ -115,7 +115,7 @@ Here is a temporary grading policy:
    - During the exam, standard A4 white papers and writing pens (blue or black) can be used.
    - On the exam paper, make sure to include: (a) Your name in Arabic, (b) Title (like Quiz1, Quiz2), and (c) Exam date.
    - Sample questions: [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
-   - Retaking exam is possible. Students have to inform the instructor beforehand.
+   - Retaking exam is possible. However, students have to inform the instructor beforehand.
 - Quiz1: Date (Oct 7th, 2025):
    - Covers all material up to this date.
 - Quiz2: Date (Oct 14th, 2025):
