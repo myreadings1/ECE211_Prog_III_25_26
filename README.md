@@ -135,8 +135,18 @@ Here is a temporary grading policy:
 
 
 ### Mini Project
-- Project 1
-- Project 2
+One of the course requirements is the mini project. A student is required to work individually to implement one of the following projects:
+- Library Management System: Manage book records (add, delete, search, display) and potentially borrower information.
+- Student Management System: Store and manage student records (name, ID, grades) using structures and file I/O.
+- Banking Management System: Simulate bank account operations, including account creation, transactions, and account details management.
+- Contact Management System: Create a simple phonebook application to store and retrieve contact information.
+- Snake Game:Implement a classic Snake game using console graphics or a simple graphics library if introduced.
+- Hospital Management System: Manage patient records, doctor details, appointments, and potentially billing information.
+- Bus Reservation System: Simulate a bus ticket booking system, including seat selection and availability.
+- Tic-Tac-Toe AI: Develop a Tic-Tac-Toe game where the computer plays against the user using AI logic.
+- File Encryption/Decryption System: Implement a basic file encryption and decryption utility using C.
+- Mini Compiler/Interpreter: Create a simple compiler or interpreter for a very basic custom language, demonstrating parsing and code generation concepts.
+
 
 
 ### Exercises From The Reference Textbook
