@@ -135,7 +135,7 @@ Here is a temporary grading policy:
 
 
 ### Mini Project
-One of the course requirements is the mini project. A student is required to work individually to implement one of the following projects:
+One of the course requirements is the mini project. A student is required to work individually to implement one of the following projects. Mini prject submission includes: (1) Lab Implementation and (2) Discussion.
 - Library Management System: Manage book records (add, delete, search, display) and potentially borrower information.
 - Student Management System: Store and manage student records (name, ID, grades) using structures and file I/O.
 - Banking Management System: Simulate bank account operations, including account creation, transactions, and account details management.
