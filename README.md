@@ -127,7 +127,9 @@ Here is a temporary grading policy:
 - Midterm Exam (Nov 16th, 2025)
     -  Lab Exam [Website Link](https://drive.google.com/file/d/1O4Q0crtClOl92-cXoXvk-MYWBLVidliU/view?usp=drive_link)
     -  Solutions [Website Link](https://drive.google.com/file/d/1dXkTHrKHyMbCmEXVA0mOeAuDfIhErbHd/view?usp=drive_link)
-- Midterm Exam (Nov 18th, 2025) ==> Class Exam
+- Midterm Exam (Nov 18th, 2025)
+- Midterm Questions [Website Link](https://drive.google.com/file/d/12GINL1OjpG8Vrp-6kykNJmXDX5qPLuT8/view?usp=drivesdk)
+-  Class Exam
    - Covers all the materials up to this date.
    - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Quiz3
