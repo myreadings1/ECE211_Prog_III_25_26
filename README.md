@@ -75,7 +75,7 @@ Here is a temporary grading policy:
     - Data Structures in C.. Cont [PDF Slides](https://drive.google.com/file/d/1VQgzlunT9Cu2Fu2TWQD_hGVd-VGRg8qY/view?usp=drive_link)
     - Note: the source C code is available at the end of this page.
 - Lab8 (Date: TBS):
-    - [Web link](https://drive.google.com/file/d/1oBr9B85a3XPTN6eNUNQibmouN-dL3j25/view?usp=drivesdk)
+    - [PDF slides](https://drive.google.com/file/d/1oBr9B85a3XPTN6eNUNQibmouN-dL3j25/view?usp=drivesdk)
 - Lecture8: (Date: TBS):
     - ==>
   
