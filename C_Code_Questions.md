@@ -42,19 +42,19 @@ Questions from Quiz1 and Quiz2:
 - Queue
 - Linked List
 Exam Questions 
-Q1. Write a C function to search a singly linked list for a given element. The function should return the based index (node number) if the element is found, and -1 otherwise.
+Q1. Write a C function to search a linked list for a given element. The function should return the based index (node number) if the element is found, and -1 otherwise.
 Q2. Write a C program that creates a new linked list (List2) containing the reverse of the elements from an existing linked list (List1).
 Q3. Write a C program to reverse the elements of an array A and store the result in an array B, utilizing a stack data structure for the reversal process.
-Q4. Write C code demonstrating the implementation of a stack using a singly linked list. (Include push and pop operations).
-Q5. Write C code demonstrating the implementation of a queue using a singly linked list. (Include enqueue and dequeue operations).
-Q6. Write a C program to store all elements of a given array A into a new singly linked list.
+Q4. Write C code demonstrating the implementation of a stack using a linked list. (Include push and pop operations).
+Q5. Write C code demonstrating the implementation of a queue using a linked list. (Include enqueue and dequeue operations).
+Q6. Write a C program to store all elements of a given array A into a new linked list.
 Q7. Write a C program to copy all elements from a given linked list A into a new array.
 Q8. Write a C program that first implements a stack using an array, and then transfers all elements from a linked list A into this stack.
-Q9. Write a C function to delete the first occurrence of a specified element (by value) from a singly linked list.
-Q10. Design and implement a circular queue using a singly linked list in C. (Include enqueue and dequeue operations).
+Q9. Write a C function to delete the first occurrence of a specified element (by value) from a linked list.
+Q10. Design and implement a circular queue using a linked list in C. (Include enqueue and dequeue operations).
 Q11. Design and implement a circular queue in C by strategically utilizing two separate arrays (A and B) with different sizes (7 and 9).
 Q12. Design and implement a single stack in C by strategically utilizing two separate arrays (A and B) with different sizes (7 and 9).
-Q13. Write a C function to concatenate two existing linked lists (A and B) into a single new linked list (C).
+Q13. Write a C function to concatenate two existing linked lists (A and B) into a new linked list (C).
 Q14. Write C code to implement a circular queue structure by linking two existing linked lists (A and B).
 Q15. Write a C function to split an existing linked list (A) into two new linked lists (B and C). The split point should be determined by a user-defined number of nodes (x). (Assume size of A > x and A > 2).
 Q16. Design and write C functions to search for a specific element in: (a) a stack, (b) a queue, and (c) a linked list.
