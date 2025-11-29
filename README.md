@@ -120,8 +120,6 @@ Here is a temporary grading policy:
    - Covers all material up to this date.
 - Quiz2: Date (Oct 14th, 2025):
    - Covers all material up to this date.
-- Quiz3: Date (Oct 28th, 2025).
-   - Covers all materials up to this date.  
 - Midterm Exam (Nov 4th, 2025) Reschedule
 - Midterm Exam (Nov 9th, 2025) Reschedule
 - Midterm Exam (Nov 16th, 2025)
@@ -130,6 +128,8 @@ Here is a temporary grading policy:
 - Midterm1 Exam (Nov 18th, 2025)
 - Midterm1 Questions [Website Link](https://drive.google.com/file/d/12GINL1OjpG8Vrp-6kykNJmXDX5qPLuT8/view?usp=drivesdk)
 - Midterm2 Exam (Nov 30th, 2025)
+- Quiz3: Date (Nov 27th, 2025):
+     - [PDF Slides](https://drive.google.com/file/d/1yN2zHyNybn7oNWIA8UKPbPODoGybTOuI/view?usp=drive_link)
 -  Class Exam
    - Covers all the materials up to this date.
    - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
