@@ -127,9 +127,10 @@ Here is a temporary grading policy:
     -  Solutions [Website Link](https://drive.google.com/file/d/1dXkTHrKHyMbCmEXVA0mOeAuDfIhErbHd/view?usp=drive_link)
 - Midterm1 Exam (Nov 18th, 2025)
 - Midterm1 Questions [Website Link](https://drive.google.com/file/d/12GINL1OjpG8Vrp-6kykNJmXDX5qPLuT8/view?usp=drivesdk)
-- Midterm2 Exam (Nov 30th, 2025)
 - Quiz3: Date (Nov 27th, 2025):
-     - [PDF Slides](https://drive.google.com/file/d/1yN2zHyNybn7oNWIA8UKPbPODoGybTOuI/view?usp=drive_link)
+     - [PDF File](https://drive.google.com/file/d/1yN2zHyNybn7oNWIA8UKPbPODoGybTOuI/view?usp=drive_link)
+- Midterm2 Exam (Nov 30th, 2025)
+- [PDF File]()
 -  Class Exam
    - Covers all the materials up to this date.
    - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
