@@ -122,7 +122,7 @@ Here is a temporary grading policy:
    - Covers all material up to this date.
 - Midterm Exam (Nov 4th, 2025) Reschedule
 - Midterm Exam (Nov 9th, 2025) Reschedule
-- Midterm Exam (Nov 16th, 2025)
+- Midterm1 Lab Exam (Nov 16th, 2025)
     -  Lab Exam [Website Link](https://drive.google.com/file/d/1O4Q0crtClOl92-cXoXvk-MYWBLVidliU/view?usp=drive_link)
     -  Solutions [Website Link](https://drive.google.com/file/d/1dXkTHrKHyMbCmEXVA0mOeAuDfIhErbHd/view?usp=drive_link)
 - Midterm1 Exam (Nov 18th, 2025)
@@ -130,7 +130,8 @@ Here is a temporary grading policy:
 - Quiz3: Date (Nov 27th, 2025):
      - [PDF File](https://drive.google.com/file/d/1yN2zHyNybn7oNWIA8UKPbPODoGybTOuI/view?usp=drive_link)
 - Midterm2 Exam (Nov 30th, 2025)
-- [PDF File]()
+- Lab Exam [PDF File](https://drive.google.com/file/d/1aA8WZbCdha0qx0RYuqmx8KkuIImSd8dd/view?usp=drive_link)
+- Class Exam [PDF File](https://drive.google.com/file/d/1N7eera6YU1C1n1hRc-V3YUOWi_OrLCl4/view?usp=drive_link)
 -  Class Exam
    - Covers all the materials up to this date.
    - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
