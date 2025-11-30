@@ -123,10 +123,10 @@ Here is a temporary grading policy:
 - Midterm Exam (Nov 4th, 2025) Reschedule
 - Midterm Exam (Nov 9th, 2025) Reschedule
 - Midterm1 Lab Exam (Nov 16th, 2025)
-    -  Lab Exam [Website Link](https://drive.google.com/file/d/1O4Q0crtClOl92-cXoXvk-MYWBLVidliU/view?usp=drive_link)
-    -  Solutions [Website Link](https://drive.google.com/file/d/1dXkTHrKHyMbCmEXVA0mOeAuDfIhErbHd/view?usp=drive_link)
+    -  Lab Exam [PDF File](https://drive.google.com/file/d/1O4Q0crtClOl92-cXoXvk-MYWBLVidliU/view?usp=drive_link)
+    -  Solutions [PDF File](https://drive.google.com/file/d/1dXkTHrKHyMbCmEXVA0mOeAuDfIhErbHd/view?usp=drive_link)
 - Midterm1 Exam (Nov 18th, 2025)
-- Midterm1 Questions [Website Link](https://drive.google.com/file/d/12GINL1OjpG8Vrp-6kykNJmXDX5qPLuT8/view?usp=drivesdk)
+- Midterm1 Questions [PDF File](https://drive.google.com/file/d/12GINL1OjpG8Vrp-6kykNJmXDX5qPLuT8/view?usp=drivesdk)
 - Quiz3: Date (Nov 27th, 2025):
      - [PDF File](https://drive.google.com/file/d/1yN2zHyNybn7oNWIA8UKPbPODoGybTOuI/view?usp=drive_link)
 - Midterm2 Exam (Nov 30th, 2025)
