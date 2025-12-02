@@ -76,9 +76,12 @@ Here is a temporary grading policy:
     - Note: the source C code is available at the end of this page.
 - Lab8 (Date: Nov 23,2025):
     - [PDF slides](https://drive.google.com/file/d/1oBr9B85a3XPTN6eNUNQibmouN-dL3j25/view?usp=drivesdk)
-- Lecture8: (Date: TBS):
-    - ==>
-  
+- Lecture8: (Date: Dec 2nd, 2025):
+    - [PDF slides](https://drive.google.com/file/d/19x1hQfkzGjs622NyvKMbnh5p-n8ATC3D/view?usp=drive_link)
+- Lab9 (Date: Dec 7th,2025):
+    - [PDF slides]()
+- Lecture9: (Date: Dec 9th, 2025):
+    - [PDF slides]()
 
   
 
@@ -176,6 +179,9 @@ One of the course requirements is the mini project. A student is required to wor
 - Linked List in C [Website](https://www.programiz.com/dsa/linked-list)
 - Linked List Operations in C [Website](https://www.programiz.com/dsa/linked-list-operations)
 - Linked List in C (virtualization) [Website Link](https://programiz.pro/code-visualizer/dsa?type=linked_list)
+- Algorithms: Linear Search [Website Link](https://www.programiz.com/dsa/linear-search)
+- Algorithms: Binary Search [Website Link](https://www.programiz.com/dsa/binary-search)
+- Algorithms: Bubble Sort [Website Link](https://www.programiz.com/dsa/bubble-sort)
 - Printing Patterns with C [Website](https://www.programiz.com/c-programming/examples/pyramid-pattern)
 - هل تشعر بالتشتت وعدم الانتباه؟ اقرا هذا المقال
   - [Website Link](https://www.aljazeera.net/misc/2025/10/7/%D9%87%D9%84-%D8%AA%D8%B4%D8%B9%D8%B1-%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D8%AA%D8%AA-%D8%B7%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%88%D9%82%D8%AA-%D8%A5%D9%84%D9%8A%D9%83-3-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA)
