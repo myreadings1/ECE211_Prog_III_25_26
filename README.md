@@ -138,8 +138,9 @@ Here is a temporary grading policy:
 -  Class Exam
    - Covers all the materials up to this date.
    - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
-- Quiz3
-- Quiz4
+- Quiz4 (Date Dec 9th,2025)
+  - Lectures 6-7-8..
+- Quiz5
 
 
 ### Mini Project
