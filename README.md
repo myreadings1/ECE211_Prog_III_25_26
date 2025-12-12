@@ -82,7 +82,7 @@ Here is a temporary grading policy:
     - [PDF slides](https://drive.google.com/file/d/1eIaKVuU8egtF2YEm9lquU8QsKATTSlSI/view?usp=drivesdk)
 - Lecture9: (Date: Dec 9th, 2025):
     - [PDF slides]
--Lab10 Date (Dec 14th, 2025)
+- Lab10 Date (Dec 14th, 2025)
     - [PDF slides](https://drive.google.com/file/d/1VmKtUwKsQxbKvml3yLHEy0pEfZR2tAME/view?usp=drivesdk)
 
   
