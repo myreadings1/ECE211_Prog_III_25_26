@@ -135,15 +135,14 @@ Here is a temporary grading policy:
 - Quiz3: Date (Nov 27th, 2025):
      - [PDF File](https://drive.google.com/file/d/1yN2zHyNybn7oNWIA8UKPbPODoGybTOuI/view?usp=drive_link)
 - Midterm2 Exam (Nov 30th, 2025)
+   - This exam covers all the materials up to this date.
+   - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Lab Exam [PDF File](https://drive.google.com/file/d/1aA8WZbCdha0qx0RYuqmx8KkuIImSd8dd/view?usp=drive_link)
 - Class Exam [PDF File](https://drive.google.com/file/d/1N7eera6YU1C1n1hRc-V3YUOWi_OrLCl4/view?usp=drive_link)
--  Class Exam
-   - Covers all the materials up to this date.
-   - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
 - Quiz4 (Date Dec 16th,2025)
-  - Lectures 6-7-8..
+  - Covers lectures 6-7-8..
   - [PDF File](https://drive.google.com/file/d/1mP5qkLTJVuuloUsytsyqF9rFOdcU-8Mw/view?usp=drive_link)
-
+- Quiz5
 
 
 ### Mini Project
