@@ -9,7 +9,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 ### Grading Policy 
 Here is a temporary grading policy:
 - Homeworks: 2 Points
-- Quizzes: 20 Points
+- Exams: 20 Points
 - Attendance: 3 Points
 - Mini Project: 5 Points
 - Lab: 10 Points
